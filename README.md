@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to The Maze Game Repo
 
-You can use the [editor on GitHub](https://github.com/Mukund-Raj/The-Maze/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Maze is my first game i created back when i was pursuing my graduation and wanted to take my first step into making games.
+I learnt a lot while making this game ,most importantly i enjoyed making this game.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
